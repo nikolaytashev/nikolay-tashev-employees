@@ -1,0 +1,10 @@
+E:\nikolay-tashev-employess\nikolay-tashev-employess\bin\Release\nikolay-tashev-employess.exe.config
+E:\nikolay-tashev-employess\nikolay-tashev-employess\bin\Release\nikolay-tashev-employess.exe
+E:\nikolay-tashev-employess\nikolay-tashev-employess\bin\Release\nikolay-tashev-employess.pdb
+E:\nikolay-tashev-employess\nikolay-tashev-employess\obj\x86\Release\nikolay-tashev-employess.csprojAssemblyReference.cache
+E:\nikolay-tashev-employess\nikolay-tashev-employess\obj\x86\Release\nikolay_tashev_employess.MainForm.resources
+E:\nikolay-tashev-employess\nikolay-tashev-employess\obj\x86\Release\nikolay_tashev_employess.Properties.Resources.resources
+E:\nikolay-tashev-employess\nikolay-tashev-employess\obj\x86\Release\nikolay-tashev-employess.csproj.GenerateResource.cache
+E:\nikolay-tashev-employess\nikolay-tashev-employess\obj\x86\Release\nikolay-tashev-employess.csproj.CoreCompileInputs.cache
+E:\nikolay-tashev-employess\nikolay-tashev-employess\obj\x86\Release\nikolay-tashev-employess.exe
+E:\nikolay-tashev-employess\nikolay-tashev-employess\obj\x86\Release\nikolay-tashev-employess.pdb
